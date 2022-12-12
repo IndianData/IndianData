@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating data sets.
 - 🌱 I’m currently learning by myself on kaggle and coursera.
 - 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me @syedamerh@gmail.com
+- 📫 How to reach me @forthryt.indian@gmail.com
 
 <!---
 IndianData/IndianData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
